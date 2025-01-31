@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+    text-transform: none;
+}
+
+:root {
+    --background-color: #101520;
+    --navbar-background-color: #202530;
+    --playlist-background-color: #303540;
+    --text-primary-color: #f2f5ff;
+    --field-background-color: #000;
+}
